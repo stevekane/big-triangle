@@ -1,0 +1,29 @@
+{
+  "name": "big-triangle",
+  "version": "1.0.0",
+  "description": "2-4 dimensional \"big triangle\" useful for full-screen webgl shaders",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevekane/big-triangle.git"
+  },
+  "keywords": [
+    "webgl",
+    "opengl",
+    "fragment",
+    "big",
+    "triangle"
+  ],
+  "author": "Steve Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevekane/big-triangle/issues"
+  },
+  "homepage": "https://github.com/stevekane/big-triangle#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "big-triangle",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "2-4 dimensional \"big triangle\" useful for full-screen webgl shaders",
   "main": "index.js",
   "scripts": {
